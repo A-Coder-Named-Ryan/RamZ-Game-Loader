@@ -1,4 +1,4 @@
-# GameZ - RAM Disk Launcher for Compressed Games
+# GameZ - RAM Disk Loader for Compressed Games
 
 **Automated 7z extraction to high-speed RAM disk for faster gaming and reduced storage footprint**
 
