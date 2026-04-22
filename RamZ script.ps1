@@ -105,7 +105,6 @@ try {
     
     # Launch game
     Write-Status "[3/3] Launching $GAMETITLE..."
-    Start-Sleep -Seconds 5  # Wait 5 seconds
     
     $gameProcess = Start-Process $GAMEEXE -PassThru -WindowStyle Normal -WorkingDirectory $EXTRACTPATH
 	if (-not $gameProcess) {
