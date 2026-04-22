@@ -1,13 +1,3 @@
-
-
-$GAMEARCHIVE = "F:\Games\The Incredibles ROTU\Arrow Funk.7z"
-$EXTRACTPATH = "Z:\"
-$GAMEEXE = "Z:\Arrow Funk.exe"
-$GAMETITLE = "Arrow Funk"
-$PROCESSNAME = "Arrow Funk"
-$AIMLL = "C:\Program Files\AIM Toolkit\aim_ll.exe"
-$7ZIPCLI = "C:\Program Files\7-Zip\7z.exe"
-
 # ==================== CONFIGURATION ====================
 # Drive letter for the RAM disk (must be available, not in use)
 $GAMEDISK = "Z:"
