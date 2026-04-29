@@ -1,4 +1,4 @@
-# GameZ - RAM Disk Loader for Compressed Games
+# RamZ - RAM Disk Loader for Compressed Games
 
 **Automated 7z extraction to high-speed RAM disk for faster gaming and reduced storage footprint**
 
@@ -6,9 +6,9 @@
 
 ## Overview
 
-**GameZ** is a PowerShell-based launcher that automatically extracts compressed 7z game archives into a temporary RAM disk, launches the game at high speed, and cleans up after you exit. Perfect for gamers with limited SSD/HDD space who want to compress their game library while still enjoying RAM-speed performance.
+**RamZ** is a PowerShell-based launcher that automatically extracts compressed 7z game archives into a temporary RAM disk, launches the game at high speed, and cleans up after you exit. Perfect for gamers with limited SSD/HDD space who want to compress their game library while still enjoying RAM-speed performance.
 
-### Why Use GameZ?
+### Why Use RamZ?
 - 🗜️ **Save Disk Space**: Store games as compressed 7z archives (often 20-40% smaller)
 - ⚡ **RAM Speed**: Run games from RAM (Via AIM Toolkit) for faster asset streaming after extraction
 - 🧹 **Clean Gaming**: No leftover files—temporary RAM disk deleted when you close the game
@@ -39,7 +39,7 @@
 
 ## Installation
 
-1. Download `GameZ.ps1`, `config.json` and `Ramz Loader (run this as admin).bat`
+1. Download `RamZ.ps1`, `config.json` and `Ramz Loader (run this as admin).bat`
 2. Ensure AIM Toolkit and 7-Zip are installed
 3. Edit `config.json` with your game paths:
    ```json
