@@ -2,6 +2,8 @@
 
 **Automated 7z extraction to high-speed RAM disk for faster gaming and reduced storage footprint**
 
+⚠️Warning⚠️ This was vibe-coded. I have tested it and found it to work but can not guarantee it's 100% foolproof. Use at your own risk. Also if there is a tool that does this same thing and isn't vibe-coded let me know.
+
 ![Windows](https://img.shields.io/badge/Platform-Windows-blue) ![7z](https://img.shields.io/badge/Archive-7z-green) ![AIM](https://img.shields.io/badge/Tool-AIM%20Toolkit-orange)
 
 ## Overview
